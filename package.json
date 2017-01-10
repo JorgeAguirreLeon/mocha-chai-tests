@@ -1,0 +1,15 @@
+{
+  "name": "npm-tests",
+  "version": "1.0.0",
+  "description": "Basic test idea with Chai and Mocha",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jorge Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
